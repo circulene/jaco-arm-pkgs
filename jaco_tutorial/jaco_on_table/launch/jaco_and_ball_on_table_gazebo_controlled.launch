@@ -19,7 +19,7 @@
 	<arg name="ball_name" default="ball"/>
 	<arg name="ball_x" value="0.2"/>
 	<arg name="ball_y" value="0.1"/>
-	<arg name="ball_z" value="0.8"/>
+	<arg name="ball_z" value="0.85"/>
 
     <arg name="gazebo_world_file" default="worlds/empty.world"/>
 
